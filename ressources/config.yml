@@ -1,0 +1,8 @@
+# This sets the maximum height a player can bounce.
+# 1=10 blocks from the trampoline, 2=25 blocks from the trampoline, and 3=40 blocks from the trampoline
+max: 3
+# This set the blocks that you want to be as trempolines.
+blocks:
+    - 26
+    - 99
+    - 100
